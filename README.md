@@ -21,7 +21,6 @@ Adept at integrating diverse data sources,including Blob Storage, SQL Server,Pos
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif-1001&show_icons=true&locale=en&layout=compact" alt="arif-1001" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arif-1001&show_icons=true&locale=en" alt="arif-1001" /></p>
 <P>&nbsp;<img align="center" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"></P>
-<br><br>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
