@@ -1,5 +1,6 @@
 <h2> Hey there! I'm Arif Khatif 👋. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arif-1001&label=Profile%20views&color=0e75b6&style=flat" alt="arif-1001" /> </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -18,6 +19,8 @@ Adept at integrating diverse data sources,including Blob Storage, SQL Server,Pos
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif-1001&show_icons=true&locale=en&layout=compact" alt="arif-1001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arif-1001&show_icons=true&locale=en" alt="arif-1001" /></p>
+
+
 
 
 
