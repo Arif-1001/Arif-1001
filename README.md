@@ -1,13 +1,16 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1600">
 <br><br>
 <h2> Hey there! I'm Arif Khatif 👋. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arif-1001&label=Profile%20views&color=0e75b6&style=flat" alt="arif-1001" /> </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭&nbsp;Result-driven Data Engineer with extensive experience designing and implementing robust Data pipelines using Azure data factory, Databricks, and Azure Data Lake Gen2.
-Adept at integrating diverse data sources,including Blob Storage, SQL Server,PostgreSQL,and MongoDB, to deliver scalable analytics solutions that enable data-driven business decisions.Proven expertise in real-time and batch data processing, automation of ETL workflows using containers, and end-to-end cloud data migration,couples with strong skills in optimizaing data storage and transformation for cost efficiency and high performance.
+- 🔭&nbsp;Result-driven Data Engineer with extensive experience designing and implementing robust Data pipelines using Azure data factory,
+  Databricks, and Azure Data Lake Gen2. Adept at integrating diverse data sources,including Blob Storage, SQL Server,PostgreSQL,and MongoDB,
+  to deliver scalable analytics solutions that enable data-driven business decisions.Proven expertise in real-time and batch data processing,
+  automation of ETL workflows using containers, and end-to-end cloud data migration,couples with strong skills in optimizaing data storage and transformation
+  for cost efficiency and high performance.
 - 🤔 &nbsp; Learning Microsfot Azure Data fabrics(ADF)
 - 🎓 &nbsp; Cretifications - Microsoft Azure fundamentals (AZ-900),Blob storage
 - 💼 &nbsp; Android developer and front-end web developer.
